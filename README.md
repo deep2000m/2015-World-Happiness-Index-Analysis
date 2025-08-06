@@ -75,16 +75,18 @@ __
 ## 📊 Detailed Visual Analysis
 
 # C1: Regional Happiness Averages
-Western Europe leads, followed by North America. Sub-Saharan Africa remains the lowest.
-
-
-
+Western Europe leads, followed by North America. Sub-Saharan Africa remains the lowest
+![Image](https://github.com/user-attachments/assets/8fae8bdb-fcdd-4c8c-805c-99f432659ecd)
 
 # C2: Governance vs Happiness Gap
 Only a handful of countries exhibit high governance satisfaction *and* high happiness. Most are disconnected.
-
+![Image](https://github.com/user-attachments/assets/c9ae9311-7322-4f49-ac60-24643bcf2761)
 
 
 
 # C3: Correlation Matrix with Happiness
 Strongest correlations are with GDP (0.78), family (0.74), and life expectancy (0.72).
+
+![Image](https://github.com/user-attachments/assets/a06233b7-f325-43cb-be74-558bc3401ac7)
+![Image](https://github.com/user-attachments/assets/edaecfc4-e678-481f-83b7-638dae891de8)
+
