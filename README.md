@@ -6,7 +6,7 @@ This project examines the 2015 World Happiness Index dataset, analyzing global p
 
 ## 📊 Dashboard Overview
 
-https://github.com/deep2000m/2015-World-Happiness-Index-Analysis/blob/main/2015%20H.jpg
+![Image](https://github.com/user-attachments/assets/fc205c42-bfba-41d8-b803-3c483f89f4f9)
 
 The interactive dashboard provides:
 - Country-level happiness comparisons
