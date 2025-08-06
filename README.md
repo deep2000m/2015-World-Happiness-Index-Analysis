@@ -90,3 +90,21 @@ Strongest correlations are with GDP (0.78), family (0.74), and life expectancy 
 ![Image](https://github.com/user-attachments/assets/a06233b7-f325-43cb-be74-558bc3401ac7)
 ![Image](https://github.com/user-attachments/assets/edaecfc4-e678-481f-83b7-638dae891de8)
 
+__
+
+🚀 How to Use
+
+1. Download the .pbix file from this repository.
+2. Open it using Power BI Desktop (free from Microsoft).
+3. Explore the dashboard
+4. No installation or code setup is required — just open and explore.
+> 💡 Tip: Use “Focus Mode” in Power BI to expand visuals for deeper analysis.
+
+
+📬 Contact
+
+Created by: Deepak Das
+📧  deepakdas909@gmail.com
+🔗 Portfolio: 
+💼 LinkedIn: https://github.com/deep2000m
+
