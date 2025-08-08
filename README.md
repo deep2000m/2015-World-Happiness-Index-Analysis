@@ -92,6 +92,9 @@ Strongest correlations are with GDP (0.78), family (0.74), and life expectancy 
 
 __
 
+#WorldHappinessReport #2015Data #Happinesscore #CountryAnalysis #Datavisualization 
+#PowerBI #Excel #DataAnalytics #PortfolioProject #GlobalInsights
+
 🚀 How to Use
 
 1. Download the .pbix file from this repository.
