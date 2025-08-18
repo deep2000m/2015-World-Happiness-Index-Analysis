@@ -108,6 +108,7 @@ __
 
 Created by: Deepak Das
 📧  deepakdas909@gmail.com
-🔗 Portfolio: 
-💼 LinkedIn: https://github.com/deep2000m
+🔗 Portfolio: https://regal-milk-197.notion.site/HEALTHCARE-ANALYTICS-PORTFOLIO-242c6d519c118032938be620abd3958b?source=copy_link
+💼 LinkedIn: https://www.linkedin.com/in/deepakdas-analyst
+
 
